@@ -22,7 +22,7 @@ Programme en C avec SDL2 permettant de désactiver le clavier et le pavé tactil
 - **Langage** : C  
 - **Graphisme** : SDL2  
 - **OS compatible** : Windows (testé sur ASUS model X550L)  
-- **Prérequis** : SDL2.dll doit être installé  (pour vle developement seulement pas besoin poour l'executable)
+- **Prérequis** : SDL2.dll doit être installé  (pour le developement seulement pas besoin pour l'executable)
 
 ## 📢 Avertissement
 ⚠️ **Le blocage du clavier reste actif après redémarrage**. Assurez-vous d’avoir une souris et un clavier USB avant de l’activer !  
