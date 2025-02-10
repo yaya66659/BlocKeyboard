@@ -1,0 +1,8 @@
+/***COMMANDE DE CONFIGURATION CLAVIER ET PAVER INTERNE PC PORTABLE*****/
+
+--cmd desactiver :
+sc config i8042prt start= disabled
+
+
+--reactiver :
+sc config i8042prt start= auto
