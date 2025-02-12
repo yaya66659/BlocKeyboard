@@ -14,7 +14,7 @@ Programme en C avec SDL2 permettant de désactiver le clavier et le pavé tactil
 ✅ Solution logicielle évitant le démontage du PC  
 
 ## 📥 Installation
-1. Télécharger le programme : **[Lien de téléchargement]**  
+1. Télécharger le programme : **https://github.com/yaya66659/BlocKeyboard/releases/download/BlolckKeyboard/BlocKeyboard.7z**  
 2. Lancer l’exécutable en **mode administrateur**  
 3. Suivre les instructions à l’écran  
 
