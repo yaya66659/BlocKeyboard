@@ -33,7 +33,7 @@ Programme en C avec SDL2 permettant de désactiver le clavier et le pavé tactil
 📌 Je cherche des **contributeurs** pour tester et améliorer la compatibilité sur d'autres PC.  
 
 ## 📩 Contact
-Si vous avez des suggestions ou des retours, contactez-moi sur **[GitHub Issues](https://github.com/yaya66659/BlocKeyboard/issues)** ou par mail : **yann66659@gmail.com**.  
+Si vous avez des suggestions ou des retours, contactez-moi sur **[GitHub Issues](https://github.com/yaya66659/BlocKeyboard/issues)** ou par mail : **yann55446@gmail.com**.  
 
 
 ## 📜 Licence
