@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /*
     BlocKeyboard - Désactivation du clavier et du pavé tactile d'un PC portable.
@@ -15,6 +16,8 @@
     avec ce programme. Si ce n’est pas le cas, consultez :
     https://www.gnu.org/licenses/gpl-3.0.html
 
+=======
+>>>>>>> 941fa3d (Sauvegarde des modifications avant pull)
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

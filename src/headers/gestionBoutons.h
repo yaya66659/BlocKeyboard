@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
     BlocKeyboard - Désactivation du clavier et du pavé tactile d'un PC portable.
     Copyright (C) 2024 Yann
@@ -16,6 +17,8 @@
 */
 
 
+=======
+>>>>>>> 941fa3d (Sauvegarde des modifications avant pull)
 #ifndef _GESTION_BOUTON_H
 #define _GESTION_BOUTON_H
 
@@ -44,4 +47,8 @@ booleen mouseEnterButon(int x, int y, SDL_Rect rect);
 
 
 
+<<<<<<< HEAD
 #endif
+=======
+#endif
+>>>>>>> 941fa3d (Sauvegarde des modifications avant pull)

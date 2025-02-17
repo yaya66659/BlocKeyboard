@@ -1,8 +1,18 @@
 /***COMMANDE DE CONFIGURATION CLAVIER ET PAVER INTERNE PC PORTABLE*****/
+<<<<<<< HEAD
 
+=======
+/*
+>>>>>>> 941fa3d (Sauvegarde des modifications avant pull)
 --cmd desactiver :
 sc config i8042prt start= disabled
 
 
 --reactiver :
+<<<<<<< HEAD
 sc config i8042prt start= auto
+=======
+sc config i8042prt start= auto
+
+*/
+>>>>>>> 941fa3d (Sauvegarde des modifications avant pull)

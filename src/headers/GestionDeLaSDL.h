@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
     BlocKeyboard - Désactivation du clavier et du pavé tactile d'un PC portable.
     Copyright (C) 2024 Yann
@@ -15,6 +16,8 @@
     https://www.gnu.org/licenses/gpl-3.0.html
 
 
+=======
+>>>>>>> 941fa3d (Sauvegarde des modifications avant pull)
 #ifndef _GESTION_SDL_
 #define _GESTION_SDL_
 
@@ -50,4 +53,8 @@ booleen eventBoucle(SDL_Event envent, SDL_Rect rectVerouiller, SDL_Rect rectDeve
 
 
 
+<<<<<<< HEAD
 #endif/*_GESTION_SDL_*/
+=======
+#endif/*_GESTION_SDL_*/
+>>>>>>> 941fa3d (Sauvegarde des modifications avant pull)

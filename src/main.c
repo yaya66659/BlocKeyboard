@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
     BlocKeyboard - Désactivation du clavier et du pavé tactile d'un PC portable.
     Copyright (C) 2024 Yann
@@ -17,6 +18,9 @@
 
 
 /*COMMANDE DE COMPILATION GCC*/
+=======
+
+>>>>>>> 941fa3d (Sauvegarde des modifications avant pull)
 /*gcc src/*.c -o bin/SDL2prog -I include -L lib -lmingw32 -lSDL2main -lSDL2 
 -lSDL2_image -lSDL2_ttf*/
 
@@ -188,7 +192,11 @@ ttf);
     }
 
 
+<<<<<<< HEAD
      /****************LIBERATION DE LA MEMOIRE************************************************/                                             
+=======
+     /****************LIBERATION DE MEMOIRE************************************************/                                             
+>>>>>>> 941fa3d (Sauvegarde des modifications avant pull)
     
          SDL_DestroyWindowsRenderreeAndTextures(window, renderer, 
 textureImageFond, textureVerouiller, textureDeVerouiller, textureAvertiement,NULL);
@@ -202,4 +210,8 @@ textureImageFond, textureVerouiller, textureDeVerouiller, textureAvertiement,NUL
 
 
 return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 941fa3d (Sauvegarde des modifications avant pull)

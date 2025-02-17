@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
     BlocKeyboard - Désactivation du clavier et du pavé tactile d'un PC portable.
     Copyright (C) 2024 Yann
@@ -16,6 +17,8 @@
 */
 
 
+=======
+>>>>>>> 941fa3d (Sauvegarde des modifications avant pull)
 #ifndef _FCT_H_
 #define _FTC_H_
 
