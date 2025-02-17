@@ -30,7 +30,15 @@ Programme en C avec SDL2 permettant de désactiver le clavier et le pavé tactil
 
 ## 🎯 Objectif
 📌 Ce projet est une alternative logicielle pour désactiver un clavier défectueux sans ouvrir le PC.  
-📌 Je cherche des **contributeurs** pour tester et améliorer la compatibilité sur d'autres PC.  
+📌 Je cherche des **contributeurs** pour tester et améliorer la compatibilité sur d'autres PC. 
+
+# 📸 Aperçu
+
+Voici l’interface de **BlocKeybord** :
+
+### Interface principale
+![Interface principale](Screenshots/ScreenBlocKeyboard.png)
+
 
 ## 📩 Contact
 Si vous avez des suggestions ou des retours, contactez-moi sur **[GitHub Issues](https://github.com/yaya66659/BlocKeyboard/issues)** ou par mail : **yann55446@gmail.com**.  
