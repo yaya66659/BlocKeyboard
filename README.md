@@ -1,4 +1,6 @@
 # BlocKeyboard
+![Status](https://img.shields.io/badge/Status-Beta-yellow?style=for-the-badge)  
+
 Programme en C avec SDL2 permettant de désactiver le clavier et le pavé tactile d'un PC portable
 
 
