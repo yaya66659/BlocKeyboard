@@ -57,4 +57,7 @@ Vous êtes libre de l’utiliser, le modifier et le redistribuer sous les termes
 - Ce programme est fourni **"tel quel", sans garantie**.  
 
 🔗 Texte complet de la licence : [LICENSE](LICENSE)  
-🔗 Plus d’informations : [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)  
+🔗 Plus d’informations : [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
+
+**Devellope par**
+    Yann PICHAT
